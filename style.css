@@ -1,0 +1,42 @@
+body{
+	background-image:url('picture.jpg');
+	background-repeat: no repeat;
+	background-size:cover;
+}
+.bb{
+	text-align:right;	
+}
+a{
+    padding-right: 3%;
+}
+
+.cc{
+	text-align:center;
+	color:blue;
+	font-size: xxx-large;
+}
+
+.label{
+	color:red;
+	font-size:larger;
+	text-align:center;
+
+}
+.bole{
+	text-align:center;
+	padding-top: 10%;
+	height: 40px
+}
+#srh{
+	border-radius:20px;
+	width: 150px;
+	height: 20px;
+}
+.books{
+	display:grid;
+    border-radius:20px;
+	width: 150px;
+	height:40;
+}
+
+
